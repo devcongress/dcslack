@@ -1,10 +1,6 @@
 {
   "name": "slackin",
-<<<<<<< HEAD
-  "version": "0.8.1",
-=======
   "version": "0.8.2",
->>>>>>> c1e2d1eb4d2eba0298af880e2424251a814b67a5
   "description": "",
   "dependencies": {
     "babel-core": "6.3.26",
@@ -20,11 +16,7 @@
     "gulp-rimraf": "0.2.0",
     "hostenv": "1.0.1",
     "opentype.js": "0.4.4",
-<<<<<<< HEAD
-    "socket.io": "1.4.0",
-=======
     "socket.io": "1.4.4",
->>>>>>> c1e2d1eb4d2eba0298af880e2424251a814b67a5
     "superagent": "0.21.0",
     "vd": "0.1.0"
   },
